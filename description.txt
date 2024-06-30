@@ -1,0 +1,8 @@
+In this project, the Data Analyst analyze international debt data collected by 
+The World Bank. The dataset contains information about the amount of debt in USD 
+format owed by developing countries across several categories. 
+This project suggests a comprehensive examination of international debt, covering 
+the total number of countries involved, rankings of countries with the highest and 
+lowest debt, and specific insights such as the debt amount for the Philippines. 
+It conveys the scope of the analysis while hinting at both general trends and specific 
+details explored in the data.
